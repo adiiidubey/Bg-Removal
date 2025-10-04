@@ -6,7 +6,7 @@ import BuyCredit from "./pages/BuyCredit";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import { SignInButton } from "@clerk/clerk-react";
-
+//I am Nitin Yadav
 const App = () => {
 	return (
 		<div className="min-h-screen bg-slate-50">
